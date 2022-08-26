@@ -396,9 +396,6 @@
   letter-spacing: 0.05em;
 }
 
-.Goods .tab_menu li.on {
-  font-weight: 400;
-}
 
 .Goods .tab_menu ul li a {
   position: relative;
